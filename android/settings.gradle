@@ -44,7 +44,7 @@ if (getRNMinorVersion() >= 75) {
   }
 }
 
-rootProject.name = 'embedprojecttabling'
+rootProject.name = 'embed_project_tabling'
 
 dependencyResolutionManagement {
   versionCatalogs {

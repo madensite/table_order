@@ -1,4 +1,4 @@
-package com.embedprojecttabling
+package com.m4den.embed_project_tabling
 
 import android.app.Application
 import android.content.res.Configuration
